@@ -1,0 +1,64 @@
+body {
+  font-family: arial, sans-serif;
+}
+.app {
+  border: 1px solid #c7c7c7;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 30px auto;
+}
+h1 {
+  font-size: 40px;
+  margin-top: 10px;
+  color: grey;
+  font-weight: 400px;
+}
+h2 {
+  font-size: 25px;
+  margin-top: 10px;
+  color: grey;
+  font-weight: 400px;
+}
+.time {
+  font-size: 25px;
+  margin-top: 10px;
+  color: grey;
+  font-weight: 400px;
+}
+img {
+  width: 120px;
+  margin: 0 auto;
+}
+.degree {
+  font-size: 30px;
+  position: relative;
+  top: -155px;
+  left: 120px;
+}
+span {
+  font-size: 120px;
+
+  margin: 0 auto;
+}
+p {
+  color: grey;
+  font-size: 13px;
+  margin: 20px;
+}
+.days {
+  text-align: center;
+  font-size: 13px;
+}
+.photo {
+  width: 40px;
+}
+.feellike {
+  font-size: 12px;
+}
+.humidity {
+  font-size: 12px;
+}
+.wind {
+  font-size: 12px;
+}
